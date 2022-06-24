@@ -39,7 +39,7 @@
 
 ![tensorboard](static/tensorboard.png)
 
-4. The deep learning model used only 3 layers; input layer, LSTM layer and output layer. The number of nodes is set to 15, and the dropout rate is set to 0.03. Rectified linear unit (ReLU) is used as an activation function.
+4. The deep learning model used only 3 layers; input layer, LSTM layer and output layer. The number of nodes was set to 15, and the dropout rate was set to 0.03. Rectified linear unit (ReLU) was used as an activation function.
 5. Based on the mean absolute percentage error(MAPE) which around 0.08%, this model can be considered as successful as it can predicted the trendline of Covid-19 cases in Malaysia.
 
 ## Credits:
