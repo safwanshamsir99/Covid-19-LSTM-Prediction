@@ -32,6 +32,10 @@
 
 ![model_score](static/score.PNG)
 
+### Malaysia's Covid-19 Cases Trendline:
+
+![model_score](static/trendline.png)
+
 ## Discussion
 1. The model is able to predict the trend of the Covid-19 cases in Malaysia.
 2. Mean absolute error(MAE) and mean squared error(MSE) report 4.18% and 0.47% respectively when tested using the testing dataset. 
