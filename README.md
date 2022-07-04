@@ -12,7 +12,7 @@
 
 ## Description
 1. The project's objective is to forecast the Malaysia's Covid-19 cases trend.
-2. The data is provided through an offical GitHub page by Ministry of Health (MoH) Malaysia. The link to the GitHub page will be provided in the credit section below.
+2. The data is provided through an official GitHub page by Ministry of Health (MoH) Malaysia. The link to the GitHub page will be provided in the credit section below.
 3. The dataset contains anomalies such as 2 different types of NaNs (which imputed by using df.interpolate()), but no duplicate data.
 4. The layers used for the deep learning model are consist of only three layers, input layer, LSTM layer and output layer.
 
